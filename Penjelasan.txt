@@ -1,0 +1,10 @@
+SOAL NO 1
+- Membuat rancangan database dengan Golang
+- Menggunakan Bahasa Golang versi 1.18
+- Cara jalankan, "go run main.go seed"
+- Database dengan MySQL
+- Driver golang database mysql, datatypes, gorm.
+SOAL NO 2
+- Membuat Soal dadu dengan lemparan dadu dan evaluasi serta hasil pemenang
+- Menggunakan Bahasa PHP
+- Jalankan di atas server local dengan XAMPP / Laragon Lalu buka browser localhost/backend_test/dadu/dadu.php
